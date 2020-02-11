@@ -4,5 +4,6 @@ Rencana Content Rayleigh :
   - Offline Games
 = Membuat Moto Vlog
   - Persiapan Camera Helm dan Microphone
+= Membuat Aplikasi Perusahaan
 = Lakukan!
   
